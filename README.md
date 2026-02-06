@@ -5,6 +5,7 @@ Contents:
 
 - Hydrogen Atom Derivation - Derivation of differential equations for the hydrogen atom 
 - Molecular Hydrogen Ion derivation - Derivation of differential equations for molecular hydrogen ion
+- Molecular Hydrogen Solution Techniques - Solutions of equations from molecular hydrogen derivation
 
 - H_Orbital_Elevels - code to plot energy level diagram for hydrogen
 - H_Orbital_Wavefns - code for 3D visualisations of hydrogen atomic orbitals
